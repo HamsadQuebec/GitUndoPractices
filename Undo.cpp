@@ -4,5 +4,6 @@
 int main()
 {
     std::cout << "Version 4" << std::endl;
+    std::cout << "Version 4" << std::endl;
     return 0;
 }
